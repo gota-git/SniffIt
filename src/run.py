@@ -31,6 +31,6 @@ def main(argv):
         downloading.downloadData(args.Args.url,args.Args.location,urls,args.Args.timeOut)
 
 if __name__ == "__main__":
-    # main(sys.argv[1:])
+    main(sys.argv[1:])
     #main("-u 127.0.0.1 -l ./D -d config -t 1 -T 2".split())
-    main("-r -d config ".split())
+    #main("-r -d config ".split())
