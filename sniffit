@@ -16,7 +16,7 @@
 import sys
 import os
 
-# for command "sniffit" link to parent directory
+# for command "sniffit" link to  "./src/run.py"
 if os.path.exists("./src"):
     sys.path.append("./src")
 
