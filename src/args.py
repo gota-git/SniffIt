@@ -1,4 +1,6 @@
-#
+#!/usr/bin/env python
+#_*_ utf-8 _*_
+
 #    Copyright (c) 2012 Gotaly (gotawork@gmail.com)
 #    License: GNU GPLv3
 #
@@ -12,6 +14,7 @@
 #
 
 # Use argparse instead of optparse
+
 
 import argparse
 

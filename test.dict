@@ -1,0 +1,21 @@
+[Suffix]
+    html    
+    htm 
+    jsp 
+    php 
+    asp 
+    pdf 
+
+[Keys]
+    index   
+    login
+    ebook
+     
+[DirLayer 0]
+    wordpress
+    images
+
+[DirLayer 1]
+    inc 
+    core
+
